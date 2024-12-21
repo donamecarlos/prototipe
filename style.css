@@ -1,0 +1,66 @@
+.b1
+{
+     background-image: url(font5.gif);
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+}
+
+.c1
+{
+    background-color: rgba(63, 115, 126, 0.44);
+    border-radius: 30px;
+    width: 400px;
+    height: 500px;
+    transform: translateX(600px) translateY(100px);
+    color: aliceblue;
+}
+
+.img1 
+{
+    border-radius: 400px;
+    transform: translateX(150px);
+    width: 100px;
+}
+
+.t1 
+{
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transform: translateX(150px);
+}
+
+.in1
+{
+    transform: translateX(100px);
+    background-color: rgba(0, 0, 0, 0.582);
+    border-radius: 10px;
+    height: 20px;
+    color: aliceblue;
+}
+.in2
+{
+    transform: translateX(100px);
+    background-color: rgba(0, 0, 0, 0.563);
+    border-radius: 10px;
+    height: 20px;
+    color: aliceblue;
+}
+
+.t2
+{
+    transform: translateX(100px);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+.j1
+{
+    color: rgb(0, 0, 0);
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    transform: translateX(115px);
+    
+}
