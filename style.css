@@ -8,11 +8,11 @@
 
 .c1
 {
-    background-color: rgba(63, 115, 126, 0.44);
+    background-color: rgba(29, 36, 37, 0.44);
     border-radius: 30px;
-    width: 400px;
-    height: 500px;
-    transform: translateX(600px) translateY(100px);
+    width: 360px;
+    height: 710px;
+    transform: translateX(0px) translateY(0px);
     color: aliceblue;
 }
 
@@ -27,7 +27,7 @@
 {
     color: aliceblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    transform: translateX(150px);
+    transform: translateX(120px);
 }
 
 .in1
